@@ -2,7 +2,7 @@
 
 Neste projeto, desenvolvi uma Landing Page utilizando HTML e CSS, colocando em prática os fundamentos do CSS, propriedades básicas da linguagem de estilização, além de trabalhar com unidades de medidas relativas e absolutas.
 
-Confira o resultado: [https://lgjor.github.io/landingpage-trilhacss-dio/](https://lgjor.github.io/landingpage-trilhacss-dio/)
+Confira o resultado: [https://lucasgch.github.io/landingpage-trilhacss-dio/](https://lucasgch.github.io/landingpage-trilhacss-dio/)
 
 ## Sobre o Projeto
 
@@ -51,7 +51,7 @@ Você pode acessar o protótipo do desafio no [Figma](https://www.figma.com/file
 
 ## Resultado
 
-Confira o resultado final da Landing Page criada a partir deste desafio: [https://lgjor.github.io/landingpage-trilhacss-dio/](https://lgjor.github.io/landingpage-trilhacss-dio/)
+Confira o resultado final da Landing Page criada a partir deste desafio: [https://lucasgch.github.io/landingpage-trilhacss-dio/](https://lucasgch.github.io/landingpage-trilhacss-dio/)
 
 ---
 
